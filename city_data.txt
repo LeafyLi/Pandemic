@@ -1,0 +1,96 @@
+Algiers  black
+Madrid  Paris  Istanbul  Cairo
+Atlanta  blue
+Chicago  Washington  Miami
+Baghdad  black
+Tehran  Karachi  Riyadh  Cairo  Istanbul
+Bangkok  red
+Kolkata  Hong Kong  Ho Chi Minh City  Jakarta  Chennai
+Beijing  red
+Seoul  Shanghai
+Bogota  yellow
+Mexico City  Miami  Sao Paulo  Buenos Aires  Lima
+Buenos Aires  yellow
+Sao Paulo  Bogota
+Cairo  black
+Istanbul  Baghdad  Riyadh  Khartoum  Algiers
+Chennai  black
+Kolkata  Delhi  Bangkok  Jakarta  Mumbai
+Chicago  blue
+Montreal  Atlanta  Mexico City  Los Angeles  San Francisco
+Delhi  black
+Kolkata  Tehran  Karachi  Mumbai  Chennai
+Essen  blue
+St. Petersburg  Milan  Paris  London
+Ho Chi Minh City  red
+Hong Kong  Manila  Jakarta  Bangkok
+Hong Kong  red
+Shanghai  Taipei  Manila  Ho Chi Minh City  Bangkok  Kolkata
+Istanbul  black
+St. Petersburg  Moscow  Baghdad  Cairo  Algiers  Milan
+Jakarta  red
+Bangkok  Ho Chi Minh City  Sydney  Chennai
+Johannesburg  yellow
+Khartoum  Kinshasa
+Karachi  black
+Tehran  Delhi  Mumbai  Riyadh  Baghdad
+Khartoum  yellow
+Cairo  Johannesburg  Kinshasa  Lagos
+Kinshasa  yellow
+Lagos  Khartoum  Johannesburg
+Kolkata  black
+Delhi  Hong Kong  Bangkok  Chennai
+Lagos  yellow
+Sao Paulo  Kinshasa  Khartoum
+Lima  yellow
+Mexico City  Bogota  Santiago
+London  blue
+New York  Madrid  Paris  Essen
+Los Angeles  yellow
+San Francisco  Sydney  Mexico City  Chicago
+Madrid  blue
+London  Paris  Algiers  Sao Paulo  New York
+Manila  red
+Taipei  San Francisco  Sydney  Ho Chi Minh City  Hong Kong
+Mexico City  yellow
+Chicago  Miami  Bogota  Lima  Los Angeles
+Miami  yellow
+Atlanta  Washington  Bogota  Mexico City
+Milan  blue
+Essen  Istanbul  Paris
+Montreal  blue
+New York  Washington  Chicago
+Moscow  black
+St. Petersburg  Tehran  Istanbul
+Mumbai  black
+Karachi  Delhi  Chennai
+New York  blue
+Montreal  London  Madrid  Washington
+Osaka  red
+Tokyo  Taipei
+Paris  blue
+London  Essen  Milan  Algiers  Madrid
+Riyadh  black
+Baghdad  Karachi  Cairo
+San Francisco  blue
+Tokyo  Manila  Los Angeles  Chicago
+Santiago  yellow
+Lima
+Sao Paulo  yellow
+Madrid  Lagos  Buenos Aires  Bogota
+Seoul  red
+Beijing  Tokyo  Shanghai
+Shanghai  red
+Beijing  Seoul  Tokyo  Taipei  Hong Kong
+St. Petersburg  blue
+Moscow  Essen  Istanbul
+Sydney  red
+Los Angeles  Manila  Jakarta
+Taipei  red
+Shanghai  Osaka  Manila  Hong Kong
+Tehran  black
+Moscow  Delhi  Karachi  Baghdad
+Tokyo  red
+Seoul  Osaka  San Francisco  Shanghai
+Washington  blue
+Montreal  New York  Miami  Atlanta
