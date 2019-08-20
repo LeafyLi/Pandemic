@@ -31,11 +31,11 @@ class Pandemic:
 
     def set_up_board(self):
         """Investigate combining these two functions (Might have mutability issues)"""
-        self.infection_deck = self.create_infection_cards()
+        self.infection_deck = self.create_infection_deck()
         self.player_deck = self.create_player_deck()
 
         self.board_cities = self.create_board_cities()
-        self.run_initial_infections()
+        self.process_initial_infections()
 
     def take_player_turn(self, player_number: int) -> str:
         cur_player = self.characters[player_number]
